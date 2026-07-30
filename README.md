@@ -2,7 +2,7 @@
 
 **Techie · AI explorer · Founder of Nuboflow Records 🎧**
 
-I live where technology, problem-solving, and creativity meet. By day I keep systems running as an **IT Support Analyst** in the finance industry. On weekends I help people build new lives as a **Regulated Immigration Consultant**. And in between, I'm deep in the world of **AI** — learning it, experimenting with it, and putting it to work.
+I live where technology, problem-solving, and creativity meet. By day I keep systems running as an **IT Systems Analyst** in the finance industry. On weekends I help people build new lives as a **Regulated Immigration Consultant**. And in between, I'm deep in the world of **AI** — learning it, experimenting with it, and putting it to work.
 
 ---
 
