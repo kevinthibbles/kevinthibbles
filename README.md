@@ -10,7 +10,7 @@ I live where technology, problem-solving, and creativity meet. By day I keep sys
 
 - 🤖 **Experimenting with AI** — exploring prompting, automation, AI agents, and real-world workflows that save time and create value
 - 🎧 **Founder of Nuboflow Records** — building a home for sound, creativity, and independent artistry
-- 🖥️ **IT Support Analyst** — keeping finance-industry systems reliable, secure, and running smoothly
+- 🖥️ **IT Systems Analyst** — keeping finance-industry systems reliable, secure, and running smoothly
 - 🌍 **Regulated Immigration Consultant** — guiding people through the journey of moving, working, and settling
 - 📈 **Always learning** — turning curiosity into skills, and skills into opportunities
 
